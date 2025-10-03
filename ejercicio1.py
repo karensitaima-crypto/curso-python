@@ -4,4 +4,4 @@
 PI=3.1416
 radio=int(input("escribir el radio del circulo"))
 area=PI*radio**2
-print(" el area es",area)
+print(" el area es %.2f" % area) 
